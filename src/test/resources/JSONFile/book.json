@@ -1,0 +1,26 @@
+{
+  "book": {
+    "dashboard": {
+      "purchaseAmount": 900,
+      "website": "abc.com"
+    },
+    "courses": [
+      {
+        "id": 1,
+        "title": "Java",
+        "price": 50,
+        "copies": 6
+      },
+      {
+        "title": "Selenium",
+        "price": 40,
+        "copies": 4
+      },
+      {
+        "title": "API",
+        "price": 45,
+        "copies": 10
+      }
+    ]
+  }
+}
